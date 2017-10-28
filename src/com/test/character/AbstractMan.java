@@ -1,4 +1,4 @@
-package com.test.people;
+package com.test.character;
 
 public abstract class AbstractMan implements Man {
 

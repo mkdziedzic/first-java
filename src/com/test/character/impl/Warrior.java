@@ -1,4 +1,6 @@
-package com.test.people;
+package com.test.character.impl;
+
+import com.test.character.AbstractMan;
 
 public class Warrior extends AbstractMan {
 

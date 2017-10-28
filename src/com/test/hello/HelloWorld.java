@@ -1,7 +1,7 @@
 package com.test.hello;
 
-import com.test.people.Man;
-import com.test.people.Warrior;
+import com.test.character.Man;
+import com.test.character.impl.Warrior;
 
 public class HelloWorld {
 
